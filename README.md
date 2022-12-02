@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'am Markus Yarleque</h1>
-<h3 align="center">A passionate software developer from Perú :flag_pe:</h3>
+<h3 align="center">A passionate software developer from Perú 🚩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markusyarleque&label=Profile%20views&color=0e75b6&style=flat" alt="markusyarleque" /> </p>
 
 - 🎓 I'm a graduate of the professional career of **Systems Engineering.**
 
-- 🌱 I’m currently learning **React and Angular**
+- 💻 I have experience in **object-oriented programming** developing **JAVA applications**, discord's bots in backend languages ​​like **NodeJS**, web development using frontend languages ​​like **HTML**, **CSS** and **JavaScript**, and relational databases like **SQL Server** and **MySQL** and non-relational like **MongoDB**.
 
-- 💻 I have experience in object-oriented programming developing JAVA applications, discord's bots in backend languages ​​like NodeJS, and web development using frontend languages ​​like HTML, CSS, and JavaScript. **season**
+- 🔭 I’m currently working on [my Web Portfolio](https://github.com/markusyarleque/portafolio) but also learning **React and Angular**.
 
-- 🔭 I’m currently working on [Website Portfolio](https://github.com/markusyarleque/portafolio)
-
-- 👨‍💻 All my projects will soon be available on my [Website](Website)
-
-- 📫 How to reach me **markus.yarleque@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/markusyarleque/](https://www.linkedin.com/in/markusyarleque/)
+- 👨‍💻 All my projects will soon be available on my ***Website***
 
 - ⚡ Fun fact **I love playing the piano!**
 
