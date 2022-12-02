@@ -9,7 +9,7 @@
 > 
 > - 🔭 I’m currently working on [my web portfolio](https://github.com/markusyarleque/portafolio) but also learning **React** and **Angular**.
 > 
-> - 👨‍💻 All my projects will soon be available on my ***Website***
+> - 👨‍💻 All my projects will be available soon on my ***Website***
 > 
 > - ⚡ Fun fact **I love playing the piano!**
 
