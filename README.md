@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'am Markus Yarleque</h1>
-<h3 align="center">A passionate software developer from Perú 🚩</h3>
+<h1 align="center">Hi 👋, I'm Markus Yarleque</h1>
+<h3 align="center">A passionate software developer from Peru 🚩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markusyarleque&label=Profile%20views&color=0e75b6&style=flat" alt="markusyarleque" /> </p>
 
-📌 I'm a graduate of the professional career of **Systems Engineering** 🎓
+📌 I have a degree in **Systems Engineering** 🎓
 
-> - 💻 I have experience in **object-oriented programming** developing **JAVA applications**, discord's bots in backend languages ​​like **NodeJS**, web development using frontend languages ​​like **HTML**, **CSS** and **JavaScript**, and relational databases like **SQL Server** and **MySQL** and non-relational like **MongoDB**.
+> - 💻 I have experience in **object-oriented programming** developing **Java applications**, Discord's bots using backend languages ​​like **Node.js**, and web development with frontend technologies such as **HTML**, **CSS** and **JavaScript**. Additionally, I work with relational databases like **SQL Server**, **Oracle SQL** and **MySQL**, as well as NoSQL databases like **MongoDB**.
 > 
-> - 🔭 I’m currently working on [my web portfolio](https://github.com/markusyarleque/portafolio) but also learning **React** and **Angular**.
+> - 🔭 I’m currently working on [my web portfolio](https://github.com/markusyarleque/portafolio) while also learning **React** and **Angular**.
 > 
-> - 👨‍💻 All my projects will be available soon on my ***Website***
+> - 👨‍💻 All my projects will soon be available on my ***website***
 > 
-> - ⚡ Fun fact **I love playing the piano!**
+> - ⚡ Fun fact: **I love playing the piano!**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ***
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Technical Skills:</h3>
 
 | Programming Languages      | Frontend Development           | Backend Development | Database | Framework | Others |
 |:-------------:|:-------------:|:-----:|:-----:|:-----:|:-----:|
