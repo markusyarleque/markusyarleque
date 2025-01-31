@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" height="200" src="./foto.jpg"  alt="Markus Yarleque" style="border-radius: 50%; object-fit: cover; object-position: top;">
+   <img align="center" width="200" height="200" src="./profile.jpg"  alt="Markus Yarleque" style="border-radius: 50%; object-fit: cover; object-position: top;">
 </p>
 <h1 align="center">Hi 👋, I'm Markus Yarleque</h1>
 <h3 align="center">A passionate software developer from Peru 🚩</h3>
